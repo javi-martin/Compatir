@@ -3,7 +3,7 @@ package es.studium.Compartir;
 public class Compartir
 {
 	int variable;
-	
+	int numero=0;
 	Compartir()
 	{
 		variable = 0;
